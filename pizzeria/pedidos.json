@@ -1,0 +1,83 @@
+{
+    "_id":"",
+    "fecha":"1/1/2021",
+    "cliente":{
+        "_id":"",
+        "nombre":"nombre 1",
+        "localidad": {
+            "_id":"",
+            "nombre":"localidad 1",
+            "provincia":{
+                "_id":"",
+                "nombre":"provincia 1"
+            }
+        },
+        "apellidos":"apellidos 1",
+        "direccion":"direccion 1",
+        "codigopostal":"11111",
+        "telefono":"11111111"
+
+
+    },
+    "tienda":{
+        "_id":"",
+        "nombre":"nombre 1",
+        "localidad": {
+            "_id":"",
+            "nombre":"localidad 1",
+            "provincia":"provincia 1"
+        }
+
+    },
+    "empleado":{
+        "_id":"",
+        "nombre":"nombre 1",
+        "tipo":"",
+        "apellidos":"apellidos 1",
+        "nif":"1111111",
+        "telefono":"1111111111"
+    },
+
+    "fechaentrega":"1/1/2021",
+    "tipoentrega":"tipo 1",
+    "preciototal":11111,
+    "lineas":[
+        {
+            "_id":"",
+            "producto":{
+
+                "_id":"",
+                "nombre":"nombre 1",
+                "familia": "familia 1",
+                "categoria":"categoria 1",
+                "precio":11
+            },
+            "cantidad" : 1  
+        },
+        {
+            "_id":"",
+            "producto":{
+
+                "_id":"",
+                "nombre":"nombre 2",
+                "familia": "familia 2",
+                "categoria":"categoria 2",
+                "precio":22
+            },
+            "cantidad" : 2  
+        },
+        {
+            "_id":"",
+            "producto":{
+
+                "_id":"",
+                "nombre":"nombre 3",
+                "familia": "familia 3",
+                "categoria":"categoria 3",
+                "precio":33
+            },
+            "cantidad" : 3  
+        }
+    ]
+
+}

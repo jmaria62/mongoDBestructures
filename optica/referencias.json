@@ -1,0 +1,31 @@
+{
+
+    "_id": "",
+    "referenciaId":"referencia 1",
+    "modelo": "modelo 1",
+    "cristales":[
+         {
+            "lado":"izquierdo",
+            "graduacion":1.5,
+            "color":"azul"
+        },
+        {
+            "lado":"derecho",
+            "graduacion":2.0,
+            "color":"azul"
+        }        
+    ],
+    "montura":{
+        "tipo":"montura tipo 1",
+        "color":"azul"
+    },
+    "precio": 1,
+    "marca":{
+        "_id":"",
+        "nombre":"marca 1",
+        "proveedor":{
+            "_id":"",
+            "nombre": "nombre 1"
+        }
+    }
+}

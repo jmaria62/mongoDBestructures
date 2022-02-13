@@ -1,0 +1,33 @@
+{
+    "_id":"",
+    "fecha":"1/1/2021",
+    "cliente":{
+        "_id":"",
+        "nombre":"nombre 1",
+        "idclienterecomendador":"id cliente x",
+        "mail":"mail 1",
+        "fechaalta":"1/1/2021",
+        "telefono":"1111111"
+    },
+    "lineas": [
+        {
+            "_id":"",
+            "referenciaid":"referencia 1",
+            "cantidad":1
+        },
+        {
+            "_id":"",
+            "referenciaid":"referencia 2",
+            "cantidad":2
+        },
+        {
+            "_id":"",
+            "referenciaid":"referencia 3",
+            "cantidad":3
+        }
+    ],
+    "empleado":{
+        "_id":"",
+        "nombre":"empleado 1"
+    }
+}
